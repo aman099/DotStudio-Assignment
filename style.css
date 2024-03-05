@@ -168,7 +168,7 @@ body {
   opacity: 1;
 }
 #grid .grid-container .grid .img-container:not(:hover) h2 {
-  transition-delay: 0.2s;
+  transition-delay: 0s;
 }
 
 .popup-container-2 h2 span {
@@ -190,7 +190,7 @@ body {
   opacity: 1;
 }
 #grid .grid-container .grid .img-container:not(:hover) p {
-  transition-delay: 0.1s;
+  transition-delay: 0s;
 }
 
 /* Skeleton load */
